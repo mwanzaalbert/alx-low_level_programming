@@ -1,6 +1,6 @@
 # alx-low_level_programming
 
-As of writing this repo contains 5 tasks namely:
+As of writing this repo contains 5 projects namely:
 * 0x00. C - Hello, World
 * 0x01. C - Variables, if, else, while
 * 0x02. C - Functions, nested loops
@@ -35,8 +35,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### General
 
-
-* Why C programming is awesome
+* Why C programming is _awesome_
 * Who invented C
 * Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
 * What happens when you type `gcc main.c`
@@ -53,6 +52,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## Requirements
 
 ### C
+
 Allowed editors: `vi`, `vim`, `emacs`
 All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 All your files should end with a new line
