@@ -33,18 +33,21 @@ This project contains nine scripts. Some of the scripts have been written to sho
   }
   ```
   
-### Task (or Script)
+### Task (aka script_name)
 
-1. 0. Preprocessor
-   * Write a script that runs the `main.c` file through the _preprocessor_ and save the result into another file.
+1. 0-Preprocessor
+   * Write a script that runs the C file through the _preprocessor_ and save the result into another file.
    * The **output** should be saved in the file named `c`
-  
 2. 1-compiler
-
+   * Write a script that compiles the C file **but** does not link.
+   * The output file should be named the same as the C file, but with the extension `.o` instead of `.c`.
+   * Example: if the C file is `main.c`, the output file should be `main.o`
 3. 2-assembler
-
+   * Write a script that that generates the assembly code of a C code and save it in an output file.
+   * The output file should be named the same as the C file, but with the extension `.s` instead of `.c`.
+   * Example: if the C file is `main.c`, the output file should be `main.s`  
 4. 3-name
-
+   * Write a script that compiles the C file and creates an executable named `cisfun`
 5. 4-puts.c
 
 6. 5-printf.c
