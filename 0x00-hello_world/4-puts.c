@@ -10,7 +10,7 @@
 int main(void)
 {
 
-	char sentence[52] = "\"Programming is like building a multilingual puzzle\n";
+	char sentence[52] = "\"Programming is like building a multilingual puzzle";
 
 	puts(sentence);
 
