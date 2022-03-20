@@ -7,7 +7,7 @@ As of writing this repo contains 5 tasks namely:
 * 0x03. C - Debugging
 * 0x04. C - More functions, more nested loops
 
-##Resources
+## Resources
 
 Read or watch:
 
