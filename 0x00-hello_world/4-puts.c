@@ -1,15 +1,18 @@
 #include <stdio.h>
-/**
- * main - prints the phrase "Programming is like building a multilingual puzzle
- * Return: 0 if exited properly, non-zero otherwise
- */
+#include <string.h>
 
-#include <stdio.h>
+/**
+*main - Main function of my project
+*
+*
+*Return: return 0 everytime
+*/
 int main(void)
 {
 
-	puts("\"Programming is like building a multilingual puzzle\n");
+	char displayed[52];
 
+	strcpy(displayed, "\"Programming is like building a multilingual puzzle");
+	puts(displayed);
 	return (0);
-
 }
