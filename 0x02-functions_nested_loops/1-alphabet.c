@@ -2,7 +2,7 @@
 
 /**
  * Entry - point
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 void print_alphabet(void)
 {
